@@ -27,5 +27,5 @@ The visualization segment was completely handled in Power BI, creating a compreh
 - **Excel Files:** Supplementary files used for specific data analysis and manipulation in Excel.
 - **Power BI Dashboard:** Contains the Power BI dashboard for visualizing the data.
 
-
+Note: I couldn't able to share the direct link due to subscription issues, will try to do that soon.
 
